@@ -6,7 +6,7 @@ My name is Rafał and I'm a business professional 📈 who turned into Full Stac
 
 🌈 I'm a big fun of open source and have created a TypeScript npm package for input validation, you can check it out [here.](https://www.npmjs.com/package/incoming-ts)
 
-If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on beautiful beaches of Catalunya and beyond.
+If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on beautiful beaches of Catalonia and beyond.
 
 #### Technologies and tools
 
