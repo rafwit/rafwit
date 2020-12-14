@@ -4,7 +4,7 @@ My name is Rafał and I'm a business professional 📈 who turned into Full Stac
 
 🤓 I’m currently working on [eMoto](https://github.com/Marcel2408/emoto-finder), electric motorbikes-sharing aggregator that allows users to find all the available motorbikes from different comapnies nearby.
 
-🌈 I'm big fun of open source and have created a TypeScript npm package for input validation, you can check it out [hehe](https://www.npmjs.com/package/incoming-ts)
+🌈 I'm big fun of open source and have created a TypeScript npm package for input validation, you can check it out [here.](https://www.npmjs.com/package/incoming-ts)
 
 If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on beautiful beaches of Catalunya and beyond.
 
