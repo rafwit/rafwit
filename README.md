@@ -4,7 +4,7 @@ My name is Rafał and I'm a business professional 📈 who turned into Full Stac
 
 🤓 I’m currently working on [eMoto](https://github.com/Marcel2408/emoto-finder), electric motorbikes-sharing aggregator that allows users to find all the available motorbikes from different comapnies nearby.
 
-🌈 I'm big fun of open source and have created a TypeScript npm package for input validation, you can check it out [here.](https://www.npmjs.com/package/incoming-ts)
+🌈 I'm a big fun of open source and have created a TypeScript npm package for input validation, you can check it out [here.](https://www.npmjs.com/package/incoming-ts)
 
 If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on beautiful beaches of Catalunya and beyond.
 
@@ -23,6 +23,6 @@ If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on b
 <code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> 
+
 
 #### 👨‍💻 You can snoop my experience on [LinkedIn](https://www.linkedin.com/in/rafalwitczak/)
