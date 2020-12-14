@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Rafał and I'm a full stack developer based in Barcelona. I'm a business professional 📈 who turned into Full Stack Developer 🤖 currently building applications in JavaScript environment. I'm excited by how amazing things solving problems both with and without code. 
+My name is Rafał and I'm a business professional 📈 who turned into Full Stack Developer 🤖, currently building applications in JavaScript environment. I love building amazing things in teams. I get excited when solving problems 🧠 both with and without code. 
 
 🤓 I’m currently working on [eMoto](https://github.com/Marcel2408/emoto-finder), electric motorbikes-sharing aggregator that allows users to find all the available motorbikes from different comapnies nearby.
 
 🌈 I'm big fun of open source and have created a TypeScript npm package for input validation, you can check it out [hehe](https://www.npmjs.com/package/incoming-ts)
 
-If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏
+If not coding, you can find me hiking 🏔 or playing Ultimate Frisbee 🥏 on beautiful beaches of Catalunya and beyond.
 
 #### Technologies and tools
 
