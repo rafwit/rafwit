@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Engineer 🤖 building applications with Angular and React as frontend frameworks, and Node.js with Express.js, Koa and Nest.js for the backend. For data storage relational databases like PostgreSQL and non-relational databases as MongoDB. 
+My name is Rafał and I'm a Full Stack Engineer 🤖 building applications with Angular and React as frontend frameworks, and Node.js with Express.js, Koa and Nest.js for the backend. For data storage relational databases like PostgreSQL and non-relational databases as MongoDB. 
 
 I'm a team player excited by solving problems both with and without code. I came from a business background 📈 and that taught me how to effectively communicate and cooperate with people from various backgrounds and generations to create amazing things together 🥳
 
